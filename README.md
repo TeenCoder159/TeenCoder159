@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi! I am Umang, AKA RustyTeen
+  
+  I love coding
+  My Favourite IDE's are Zed and VSCode
+  I am learning how to code in rust 
+  I know the fundamentals of C++ and basic html/css
 
-<!--
-**RustyTeen/RustyTeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    I am also passionate about:
+     - Mathematical problems
+     - Technology
+     - Video / Photo editing
+     - Cars
+    
+    
