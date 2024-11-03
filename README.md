@@ -2,7 +2,7 @@
   
   I love coding
   
-  My Favourite IDE's are Zed and VSCode
+  I use Zed as my main IDE and ocassionally VSCode, albeit rarely
   
   I am learning how to code in rust 
   
