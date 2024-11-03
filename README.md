@@ -8,6 +8,8 @@
   
   I know the fundamentals of C++ and basic html/css
 
+  I am an aspiring SaaS developer
+
     I am also passionate about:
      - Mathematical problems
      - Technology
