@@ -6,7 +6,7 @@
   
   I know how to code in rust 
   
-  I know the fundamentals of C++ and basic html/css
+  I know the fundamentals of C++ and html/css
 
   I am an aspiring SaaS developer
 
