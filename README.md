@@ -4,7 +4,7 @@
   
   I use Zed as my main IDE
   
-  I am learning how to code in rust 
+  I know how to code in rust 
   
   I know the fundamentals of C++ and basic html/css
 
