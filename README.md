@@ -1,19 +1,20 @@
-# Hi! I am Umang, AKA RustyTeen
+# Hi! I am Umang, aka TeenCoder159
   
-  I love coding
+  I discovered my passion coding through robotics
   
-  I use Zed as my main IDE
+  I have chosen to become proficient in rust and aspire to better peoples lives with the usage of software made in rust
   
-  I know how to code in rust 
-  
-  I know the fundamentals of C++ and html/css
+  However, I do know the stepping stones of C++ and can make basic websites with HTML/CSS
 
-  I am an aspiring SaaS developer
+  You can view my full portfolio here: 
 
-    I am also passionate about:
-     - Mathematical problems
+    ```
+    My other areas of interest are:
+     - Mathematics
      - Technology
-     - Video / Photo editing
+     - Video editing 
+     - Graphic design
      - Cars
+    ```
     
     
