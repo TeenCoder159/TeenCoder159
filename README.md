@@ -1,4 +1,4 @@
-# Hi! I am Umang, aka TeenCoder159
+# Hi! I am Umang, a teen who knows how to code in rust
   
   I discovered my passion coding through robotics
   
