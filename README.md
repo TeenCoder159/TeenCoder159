@@ -1,6 +1,6 @@
 # Hi! I am Umang, a teen who knows how to code in rust
   
-  I discovered my passion coding through robotics
+  I discovered my passion for coding through Vex robotics
   
   I have chosen to become proficient in rust and aspire to better peoples lives with the usage of software made in rust
   
