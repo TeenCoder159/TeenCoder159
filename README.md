@@ -1,4 +1,4 @@
-# Hi! I am Umang, a teen who knows how to code in rust
+# Hi! I am Umang, a teen who knows is learning the rust programming language
   
   I discovered my passion for coding through Vex robotics
   
