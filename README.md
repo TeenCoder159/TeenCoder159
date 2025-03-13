@@ -1,12 +1,17 @@
-# Hi! I am Umang, a teen who knows is learning the rust programming language
+# Hi! I am Umang, a teen who adores programming
   
-  I discovered my passion for coding through Vex robotics
+  I discovered my passion for coding through Vex robotics in 9th grade
   
-  I have chosen to become proficient in rust and aspire to better peoples lives with the usage of software made in rust
+  I have chosen to become proficient in rust while aspiring to better peoples lives with software
   
-  However, I do know the stepping stones of C++ and can make basic websites with HTML/CSS
+  Apart from rust, I can also code in:
+  - Go
+  - Python
+  - Javascript
+  - HTML & CSS
 
   You can view my full portfolio here: 
+  https://teencoder159.github.io/portfolio/
   
     My other areas of interest are:
      - Mathematics
