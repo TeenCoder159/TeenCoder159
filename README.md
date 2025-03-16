@@ -4,7 +4,8 @@
   
   I have chosen to become proficient in rust while aspiring to better peoples lives with software
   
-  Apart from rust, I can also code in:
+  I can also code in:
+  - Rust
   - Go
   - Python
   - Javascript
