@@ -15,8 +15,8 @@
   https://teencoder159.github.io/portfolio/
   
   My other areas of interest are:
-     - Mathematics
-     - Technology
-     - Video editing 
-     - Graphic design
-     - Cars
+  - Mathematics
+  - Technology
+  - Video editing 
+  - Graphic design
+  - Cars
