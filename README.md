@@ -14,7 +14,7 @@
   You can view my full portfolio here: 
   https://teencoder159.github.io/portfolio/
   
-    My other areas of interest are:
+  My other areas of interest are:
      - Mathematics
      - Technology
      - Video editing 
