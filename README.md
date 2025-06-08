@@ -4,10 +4,11 @@
   
   I have chosen to become proficient in rust while aspiring to better peoples lives with software
   
-  I can also code in:
+  I can code in:
   - Rust
   - Python
-  - Javascript
+  - JavaScript
+  - TypeScript
   - HTML & CSS
 
   You can view my full portfolio here: 
