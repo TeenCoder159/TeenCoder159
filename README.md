@@ -6,7 +6,6 @@
   
   I can also code in:
   - Rust
-  - Go
   - Python
   - Javascript
   - HTML & CSS
