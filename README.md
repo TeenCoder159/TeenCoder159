@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:no1umang@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:no1umang@gmail.com) <br>
 [Website](https://portfolio.umangsurana.com)
 
 # 💻 Tech Stack:
